@@ -1,0 +1,228 @@
+{
+  "courses": [
+    {
+    "course_code": "CP301",
+    "course_name": "aknfs"
+    }
+  ],
+  "days": [
+    {
+      "day_name" : "Monday",
+      "lectures" : [
+        {
+          "start_time" : "10:30 AM",
+          "end_time" : "11:30 AM",
+          "course_code" : "2CP02",
+          "course_name" : "Object Oriented Programming with C++"
+        },
+        {
+          "start_time" : "11:30 AM",
+          "end_time" : "12:30 PM",
+          "course_code" : "2CP04",
+          "course_name" : "Discrete Mathematics"
+        },
+        {
+          "start_time" : "12:30 PM",
+          "end_time" : "1:30 PM",
+          "course_code" : "2CP03",
+          "course_name" : "Digital Logic and Design"
+        },
+        {
+          "start_time" : "1:30 PM",
+          "end_time" : "2:00 PM",
+          "course_code" : "Break",
+          "course_name" : ""
+        },
+
+        {
+          "start_time" : "2:00 PM",
+          "end_time" : "3:00 PM",
+          "course_code" : "2HS02",
+          "course_name" : "Economics and Management"
+        },
+        {
+          "start_time" : "3:00 PM",
+          "end_time" : "4:00 PM",
+          "course_code" : "2CP01",
+          "course_name" : "Database Management Systems"
+        },
+        {
+          "start_time" : "4:00 PM",
+          "end_time" : "6:00 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["A - 2CP01","B - 2CP02","C - 2HS01"]
+        }
+      ]
+    },
+    {
+      "day_name" : "Tuesday",
+      "lectures" : [
+        {
+          "start_time" : "10:30 AM",
+          "end_time" : "11:30 AM",
+          "course_code" : "2CP02",
+          "course_name" : "Object Oriented Programming with C++"
+        },
+        {
+          "start_time" : "11:30 AM",
+          "end_time" : "12:30 PM",
+          "course_code" : "2CP03",
+          "course_name" : "Digital Logic and Design"
+        },
+        {
+          "start_time" : "12:30 PM",
+          "end_time" : "1:30 PM",
+          "course_code" : "Tutorial",
+          "course_name" : "",
+          "lab" : ["A - 2CP04"]
+        },
+        {
+          "start_time" : "1:30 PM",
+          "end_time" : "2:00 PM",
+          "course_code" : "Break",
+          "course_name" : ""
+        },
+
+        {
+          "start_time" : "2:00 PM",
+          "end_time" : "3:00 PM",
+          "course_code" : "2HS02",
+          "course_name" : "Economics and Management"
+        },
+        {
+          "start_time" : "3:00 PM",
+          "end_time" : "4:00 PM",
+          "course_code" : "2CP01",
+          "course_name" : "Database Management Systems"
+        },
+        {
+          "start_time" : "4:00 PM",
+          "end_time" : "6:00 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["A - 2HS01","B - 2CP01","C - 2CP02","D - 2CP03"]
+        }
+      ]
+    },
+    {
+      "day_name" : "Wednesday",
+      "lectures" : [
+        {
+          "start_time" : "10:30 AM",
+          "end_time" : "11:30 AM",
+          "course_code" : "2CP02",
+          "course_name" : "Object Oriented Programming with C++"
+        },
+        {
+          "start_time" : "11:30 AM",
+          "end_time" : "12:30 PM",
+          "course_code" : "2CP04",
+          "course_name" : "Discrete Mathematics"
+        },
+        {
+          "start_time" : "12:30 PM",
+          "end_time" : "1:30 PM",
+          "course_code" : "Tutorial",
+          "course_name" : "",
+          "lab" : ["B - 2CP04"]
+        },
+        {
+          "start_time" : "1:30 PM",
+          "end_time" : "3:00 PM",
+          "course_code" : "Break",
+          "course_name" : ""
+        },
+        {
+          "start_time" : "3:00 PM",
+          "end_time" : "4:00 PM",
+          "course_code" : "2CP01",
+          "course_name" : "Database Management Systems"
+        },
+        {
+          "start_time" : "4:00 PM",
+          "end_time" : "6:00 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["B - 2HS01","C - 2CP03","D - 2CP02"]
+        }
+      ]
+    },
+    {
+      "day_name" : "Thursday",
+      "lectures" : [
+        {
+          "start_time" : "10:30 AM",
+          "end_time" : "12:30 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["A - 2CP02","B - 2CP03","C - 2CP01","D - 2HS01"]
+        },
+        {
+          "start_time": "12:30 PM",
+          "end_time": "1:30 PM",
+          "course_code": "Tutorial",
+          "course_name": "",
+          "lab": [
+            "C - 2CP04"
+          ]
+        },
+        {
+          "start_time" : "1:30 PM",
+          "end_time" : "3:00 PM",
+          "course_code" : "Break",
+          "course_name" : ""
+        },
+        {
+          "start_time" : "3:00 PM",
+          "end_time" : "4:00 PM",
+          "course_code" : "2HS02",
+          "course_name" : "Economics and Management"
+        },
+        {
+          "start_time" : "4:00 PM",
+          "end_time" : "5:00 PM",
+          "course_code" : "2CP03",
+          "course_name" : "Digital Logic and Design"
+        }
+      ]
+    },
+    {
+      "day_name" : "Friday",
+      "lectures" : [
+        {
+          "start_time" : "10:30 AM",
+          "end_time" : "12:30 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["A - 2CP03","D - 2CP01"]
+        },
+        {
+          "start_time" : "12:30 PM",
+          "end_time" : "1:30 PM",
+          "course_code" : "Tutorial",
+          "course_name" : "",
+          "lab" : ["D - 2CP04"]
+        },
+        {
+          "start_time" : "1:30 PM",
+          "end_time" : "2:00 PM",
+          "course_code" : "Break",
+          "course_name" : ""
+        },
+        {
+          "start_time" : "2:00 PM",
+          "end_time" : "3:00 PM",
+          "course_code" : "2HS01",
+          "course_name" : " Professional Soft Skills"
+        },
+        {
+          "start_time" : "3:00 PM",
+          "end_time" : "4:00 PM",
+          "course_code" : "2CP04",
+          "course_name" : "Discrete Mathematics"
+        }
+      ]
+    }
+  ]
+}

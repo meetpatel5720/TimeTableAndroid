@@ -1,0 +1,226 @@
+{
+  "days": [
+    {
+      "day_name" : "Monday",
+      "lectures" : [
+        {
+          "start_time" : "10:30 AM",
+          "end_time" : "12:30 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["A - CP306","B - CP306","C - CP303","D - CP301","E - CP302"]
+        },
+        {
+          "start_time" : "12:30 PM",
+          "end_time" : "1:30 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["A - CP306","B - CP306"]
+        },
+        {
+          "start_time" : "1:30 PM",
+          "end_time" : "2:00 PM",
+          "course_code" : "Break",
+          "course_name" : ""
+        },
+        {
+          "start_time" : "2:00 PM",
+          "end_time" : "3:00 PM",
+          "course_code" : "CP304",
+          "course_name" : "Processor Architectures"
+        },
+        {
+          "start_time" : "3:00 PM",
+          "end_time" : "4:00 PM",
+          "course_code" : "CP301",
+          "course_name" : "Web Technologies"
+        },
+        {
+          "start_time" : "4:00 PM",
+          "end_time" : "5:00 PM",
+          "course_code" : "CP305",
+          "course_name" : "Operating System"
+        },
+        {
+          "start_time" : "5:00 PM",
+          "end_time" : "6:00 PM",
+          "course_code" : "CP302",
+          "course_name" : "Design & Analysis of Algorithms"
+        }
+      ]
+    },
+    {
+      "day_name" : "Tuesday",
+      "lectures" : [
+        {
+          "start_time" : "10:30 AM",
+          "end_time" : "12:30 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["A - CP303","B - CP305","C - CP301","D - CP301","E - CP306"]
+        },
+        {
+          "start_time" : "12:30 PM",
+          "end_time" : "1:30 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["E - CP306"]
+        },
+        {
+          "start_time" : "1:30 PM",
+          "end_time" : "2:00 PM",
+          "course_code" : "Break",
+          "course_name" : ""
+        },
+        {
+          "start_time" : "2:00 PM",
+          "end_time" : "3:00 PM",
+          "course_code" : "CP303",
+          "course_name" : "Object Oriented Programming using JAVA"
+        },
+        {
+          "start_time" : "3:00 PM",
+          "end_time" : "4:00 PM",
+          "course_code" : "CP301",
+          "course_name" : "Web Technologies"
+        },
+        {
+          "start_time" : "4:00 PM",
+          "end_time" : "5:00 PM",
+          "course_code" : "CP302",
+          "course_name" : "Design & Analysis of Algorithms"
+        },
+        {
+          "start_time" : "5:00 PM",
+          "end_time" : "6:00 PM",
+          "course_code" : "CP304",
+          "course_name" : "Processor Architectures"
+        }
+      ]
+    },
+    {
+      "day_name" : "Wednesday",
+      "lectures" : [
+        {
+          "start_time" : "10:30 AM",
+          "end_time" : "12:30 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["A - CP302","B - CP301","C - CP305","D - CP303","E - CP301"]
+        },
+        {
+          "start_time" : "12:30 PM",
+          "end_time" : "2:00 PM",
+          "course_code" : "Break",
+          "course_name" : ""
+        },
+        {
+          "start_time" : "2:00 PM",
+          "end_time" : "3:00 PM",
+          "course_code" : "CP305",
+          "course_name" : "Operating System"
+        },
+        {
+          "start_time" : "3:00 PM",
+          "end_time" : "4:00 PM",
+          "course_code" : "CP302",
+          "course_name" : "Design & Analysis of Algorithms"
+        },
+        {
+          "start_time" : "4:00 PM",
+          "end_time" : "5:00 PM",
+          "course_code" : "CP303",
+          "course_name" : "Object Oriented Programming using JAVA"
+        }
+      ]
+    },
+    {
+      "day_name" : "Thursday",
+      "lectures" : [
+        {
+          "start_time" : "10:30 AM",
+          "end_time" : "11:30 AM",
+          "course_code" : "CP303",
+          "course_name" : "Object Oriented Programming using JAVA"
+        },
+        {
+          "start_time" : "11:30 AM",
+          "end_time" : "12:30 PM",
+          "course_code" : "CP304",
+          "course_name" : "Processor Architectures"
+        },
+        {
+          "start_time" : "12:30 PM",
+          "end_time" : "1:30 PM",
+          "course_code" : "CP305",
+          "course_name" : "Operating System"
+
+        },
+        {
+          "start_time" : "1:30 PM",
+          "end_time" : "2:00 PM",
+          "course_code" : "Break",
+          "course_name" : ""
+        },
+        {
+          "start_time" : "2:00 PM",
+          "end_time" : "4:00 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["A - CP301","B - CP303","C - CP302","D - CP305","E - CP301"]
+        },
+        {
+          "start_time" : "4:00 PM",
+          "end_time" : "6:00 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["A - CP305","B - CP301","C - CP301","D - CP302","E - CP303"]
+        }
+      ]
+    },
+    {
+      "day_name" : "Friday",
+      "lectures" : [
+        {
+          "start_time" : "10:30 AM",
+          "end_time" : "11:30 AM",
+          "course_code" : "CP303",
+          "course_name" : "Object Oriented Programming using JAVA"
+        },
+        {
+          "start_time" : "11:30 AM",
+          "end_time" : "12:30 PM",
+          "course_code" : "CP302",
+          "course_name" : "Design & Analysis of Algorithms"
+        },
+        {
+          "start_time" : "12:30 PM",
+          "end_time" : "1:30 PM",
+          "course_code" : "CP305",
+          "course_name" : "Operating System"
+
+        },
+        {
+          "start_time" : "1:30 PM",
+          "end_time" : "3:00 PM",
+          "course_code" : "Break",
+          "course_name" : ""
+        },
+        {
+          "start_time" : "3:00 PM",
+          "end_time" : "4:00 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["C - CP306","D - CP306"]
+        },
+        {
+          "start_time" : "4:00 PM",
+          "end_time" : "6:00 PM",
+          "course_code" : "Lab",
+          "course_name" : "",
+          "lab" : ["A - CP301","B - CP302","C - CP306","D - CP306","E - CP305"]
+        }
+      ]
+    }
+  ]
+}

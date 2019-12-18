@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <RelativeLayout
+        android:id="@+id/lecture_details_container"
+        android:layout_width="180dp"
+        android:layout_height="140dp"
+        android:background="@drawable/rounded_square"
+        android:padding="10dp">
+
+        <RelativeLayout
+            android:id="@+id/time_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true">
+            <TextView
+                android:id="@+id/time_duration"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="10:30AM - 11:30AM"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/time_container"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/course_code"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
+                android:text="CP303"
+                android:textColor="@android:color/white"
+                android:textSize="22dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/course_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/course_code"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:text="Object Oriented Programming with JAVA"
+                android:textColor="@android:color/white" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/lab_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/course_name"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp">
+
+            </android.support.v7.widget.RecyclerView>
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>
